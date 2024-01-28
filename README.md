@@ -10,7 +10,10 @@
 <div align=center>
 
 ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=cjo5929&show_icons=true)
-  
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalstj4505)](https://solved.ac/profile/rkdalstj4505)
+
+
 <br>
 
 <p align="center">
