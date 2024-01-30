@@ -9,8 +9,6 @@
 
 <div align=center>
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=cjo5929&show_icons=true&count_private=true)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalstj4505)](https://solved.ac/profile/rkdalstj4505) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjo5929&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
